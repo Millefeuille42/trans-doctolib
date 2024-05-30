@@ -20,8 +20,8 @@ Les sources sont dérivées de celles [trouvables ici](https://github.com/msw9/t
 
 ## Installation 
 ### Via le store
-Firefox: https://addons.mozilla.org/fr/firefox/addon/trans-doctolib/ (En attente de validation)
-Chrome: TBA (Not until I get $5 to buy my ✨ **Google license** ✨)
+- Firefox: https://addons.mozilla.org/fr/firefox/addon/trans-doctolib/ (En attente de validation)
+- Chrome: TBA (Not until I get $5 to buy my ✨ **Google license** ✨)
 
 ### Manuelle
 #### Firefox
