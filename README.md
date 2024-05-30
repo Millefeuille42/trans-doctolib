@@ -2,7 +2,7 @@
 
 ## Accreditation
 Code, idée et liste d'origine de [msw9](https://github.com/msw9/trans-doctolib-ressources)
-Repris par [millefeuille](https://github.com/Millefeuille42)
+repris par [millefeuille](https://github.com/Millefeuille42)
 
 ## Introduction
 Trans Doctolib est une extension qui permet de voir sur le profil Doctolib d'un praticien, s'il a signé une tribune pro ou anti-trans et d'accéder à la tribune en question en un clic.
